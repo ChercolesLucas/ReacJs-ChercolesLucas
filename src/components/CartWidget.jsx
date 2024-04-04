@@ -1,5 +1,5 @@
 import React from "react";
-import ShoppingBagIcon from "@mui/icons-material/ShoppingBag"; // Importa el icono de la bolsa de compras de Material-UI
+import ShoppingBagIcon from "@mui/icons-material/ShoppingBag"; 
 
 const CartWidget = () => {
   return (
