@@ -6,9 +6,8 @@ const CartWidget = () => {
     <div className="flex items-center">
       <span className="">
         <ShoppingBagIcon />{" "}
-        {/* Utiliza el icono de la bolsa de compras de Material-UI */}
       </span>
-      <span>0</span> {/* Número harcodeado, puede ser dinámico en el futuro */}
+      <span>0</span> 
     </div>
   );
 };
