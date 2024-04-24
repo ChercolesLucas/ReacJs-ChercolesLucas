@@ -3,5 +3,6 @@ Disculpe que haya entregado a ultimo momento pero le quiero comentar, (no justif
 Con nada mas que decir espero que se encuentre bien y nos mantenemos en contacto por el medio de la plataforma.
 Abrazos!
 Chercoles Lucas
-PD:no pude transformar el video gif, mil disculpas.
+PD: El gif se encuentra en la carpeta Assets
+
 
